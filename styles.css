@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: orange;
+}
+
+p {
+    color: white;
+    display: flex;
+    justify-content: left;
+}
+
+.texto {
+    justify-content: center;
+}
+
+.pokemon {
+    color: lime;
+    justify-content: left;
+    display: flex;
+    margin-top: -35px;
+    margin-left: 170px;
+}
+#pokemon{
+    color: lime;
+}
+
+.habilidade1 {
+    color: rgb(251, 255, 0);
+}
+
+.descricao {
+    color: rgb(141, 255, 141);
+}
+
+#golpes {
+    column-count: 4;
+}
+
+
+li {
+    color: rgb(251, 255, 0);
+    list-style: none;
+}
+
+h2 {
+    color: orange;
+}
